@@ -1,0 +1,6 @@
+name: EasterSimulator
+version: '${project.version}'
+main: io.github.greenmc.eastersimulator.EasterSimulator
+api-version: 1.17
+authors: [ bilektugrul, Despical ]
+description: EasterSimulator
